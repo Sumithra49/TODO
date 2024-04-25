@@ -1,0 +1,5 @@
+.list-group-item,.form-group{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
